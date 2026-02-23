@@ -27,7 +27,7 @@
 <div id="countdown"></div>
 
 <h2>Nosotros</h2>
-<img src="Captura de pantalla 2026-01-08 031345.jpg">
+<img src="foto1.jpg">
 <img src="foto2.jpg">
 
 <script>
